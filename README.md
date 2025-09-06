@@ -10,11 +10,6 @@ Modular, extensible OpenAI-compatible tool calling service for local and remote 
 - Flexible configuration via environment variables or .env
 - Support for custom tool directories
 
-## Installation
-```bash
-pip install gpt-oss
-```
-
 ## Usage
 ```python
 from services.chat_service import ChatService
